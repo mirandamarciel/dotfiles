@@ -530,35 +530,25 @@ installAll() {
   apt_install_etcher
   apt_install_skype
   apt_install_terminator
-  apt_install_zsh
-  apt_install_powerline_fonts_theme
-  apt_install_zsh_syntax_highlighting
-  apt_install_zsh_autosuggestions
   apt_install_rbenv
   apt_install_ruby_build
   apt_install_ruby
   apt_install_bundler
   apt_install_nodejs
   apt_install_rails
-  apt_install_docker
   apt_install_postgressql
   apt_install_rubymine
   apt_install_datagrip
   apt_install_dbeaver
-  apt_install_polybar
-  apt_install_i3_gaps
-  apt_install_nerd_fonts
   apt_install_oracle_client
   apt_install_bat
   apt_install_mdbook
   apt_install_neovim
   apt_install_nvm
   apt_install_jq
-  apt_install_ansible
   apt_install_youtube_dl
   apt_install_asciinema
   apt_install_scrcpy
-  apt_install_lepton
   apt_autoremove
 }
 

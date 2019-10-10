@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-USER='joao.carlos'
-NAME='Joao Carlos Ottobboni'
-EMAIL='jcottobboni@gmail.com'
+USER='marciel'
+NAME='Marciel Miranda'
+EMAIL='marciel.miranda@siedos.com.br'
 
 PROJECTS="${HOME}/projects"
 DOCKERFILES="${HOME}/projects/dockerfiles"
@@ -17,4 +17,3 @@ BOOSTNOTE="${HOME}/Boostnote"
 PRIVATE_DOTFILES="${HOME}/dotfiles/private/dotfiles"
 SIEDOS_SCRIPTS="${HOME}/dotfiles/private/scripts"
 SIEDOS_VPN="${HOME}/dotfiles/private/siedos-vpn"
-JOAOCARLOSDEV="${PROJECTS}/personal/joaocarlos.dev"
